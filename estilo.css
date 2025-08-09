@@ -1,0 +1,25 @@
+.corpo{
+    background-color:cyan;
+}
+
+.titulo{
+    color:blue;
+    text-align:center;
+}
+
+.paragrafo{
+   font-size: 20px;
+   text-align: justify;
+}
+
+.lista li{
+    margin-bottom: 20px;
+}
+
+.imagem{
+     border-radius: 20px;
+}
+
+.link:hover {
+    color: red;
+}
